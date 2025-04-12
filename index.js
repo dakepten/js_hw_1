@@ -1,3 +1,5 @@
+'use strict'
+
 // true or false 
 
 // task#1
