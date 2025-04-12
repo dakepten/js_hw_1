@@ -167,9 +167,10 @@
 
 // task#2
 
+// let number = 0;
 // do{
 //     let input = prompt("Enter Number:");
-//     number = Number(input);
+//     let number = Number(input);
 // } while(isNaN(number) || number <= 0);
 
 // console.log(number);
